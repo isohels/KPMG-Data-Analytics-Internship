@@ -7,4 +7,4 @@ This repo contains my work toward KPMG Data Analytics Internship which includes:
 •	Interpretation (Python)</br>
 •	Dashboard (PowerBI)</br>
 
-
+<img src="Images/RFM Analysis.PNG">
